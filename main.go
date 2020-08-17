@@ -62,5 +62,5 @@ func main()  {
 		}
 	}
 
-	fmt.Print("Banyak titik yang menjadi kemungkinan lokasi yaitu: ", count)
+	fmt.Println("Banyak titik yang menjadi kemungkinan lokasi yaitu: ", count)
 }
